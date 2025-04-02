@@ -1,4 +1,5 @@
 # Album Finder with Spotify APIs
+![Album Recommender](Albumfinder22.png)
 
 ## Description
 This project is a web application that allows users to search for their favorite artists and view their albums using the Spotify API. The application provides a user-friendly interface with animations and responsive design.
