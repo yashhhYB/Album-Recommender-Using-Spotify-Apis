@@ -35,6 +35,7 @@ This project is a web application that allows users to search for their favorite
 Make sure to set the following environment variables in a `.env` file:
 - `VITE_CLIENT_ID`: Your Spotify client ID
 - `VITE_CLIENT_SECRET`: Your Spotify client secret
-
+## Final Result
+![Album Recommender](Albumfinder-final.png)
 ## License
 This project is licensed under the MIT License.
