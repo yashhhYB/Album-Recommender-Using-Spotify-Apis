@@ -37,5 +37,9 @@ Make sure to set the following environment variables in a `.env` file:
 - `VITE_CLIENT_SECRET`: Your Spotify client secret
 ## Final Result
 ![Album Recommender](Albumfinder-final.png)
+
+## Contributing
+Feel free to submit issues or pull requests.
+
 ## License
 This project is licensed under the MIT License.
