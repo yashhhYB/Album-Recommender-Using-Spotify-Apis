@@ -13,7 +13,7 @@ This project is a web application that allows users to search for their favorite
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yashhhYB/Album-Finder-With-Spotify-APIs.git
+   git clone https://github.com/yashhhYB/Album-Recommender-Using-Spotify-Apis.git
    ```
 2. Navigate to the project directory:
    ```bash
