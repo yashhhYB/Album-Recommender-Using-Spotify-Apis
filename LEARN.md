@@ -5,4 +5,4 @@
 - Responsive design with animations
 - Built with React and Vite
 
-## Refer ReadMe File For More.
+## Refer ReadMe File For More...
