@@ -31,6 +31,7 @@ This project is a web application that allows users to search for their favorite
    ```
 2. Open your browser and navigate to `http://localhost:5176/`.
 
+
 ## Environment Variables
 Make sure to set the following environment variables in a `.env` file:
 - `VITE_CLIENT_ID`: Your Spotify client ID
